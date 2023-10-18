@@ -3,6 +3,7 @@
   "description": "Free code camp backeend course",
   "keywords": ["freecodecamp", "backend", "packetjson"],
   "license": "MIT",
+  "version": "1.0.0",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
