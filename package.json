@@ -1,6 +1,7 @@
 {
   "author": "kirubel jalleta",
   "description": "Free code camp backeend course",
+  "keywords": [ "freecodecamp", "backend", "packetjson" ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
